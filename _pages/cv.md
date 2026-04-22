@@ -23,7 +23,7 @@ Professional & Research Experience
   * Raman Spectroscopy
   * RCWA electromagnetic modeling
   * Thermal Properties and transport phenomena
-  * Youngest employee in the CTO-R&D group
+  * Youngest employee in the CTO-R&D group and in Nova
 
 * **Research Assistant**
   * Quantum light-matter interaction theory with Dr. **Alexander Poddubny**
