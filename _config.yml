@@ -24,10 +24,10 @@ repository: "elimeril451/elimeril.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name: "Eli Meril"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio: "Theoretical Physicist | PhD Candidate at Tel Aviv University"
+  location: "Tel Aviv, Israel"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
