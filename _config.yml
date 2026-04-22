@@ -25,17 +25,17 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name: "Eli Meril"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio: "Theoretical Physicist | PhD Candidate at Tel Aviv University"
   location: "Tel Aviv, Israel"
   employer         : "Tel Aviv University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "elimeril@mail.tau.ac.il" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Meril%2C+E"# URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=K8OwX38AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "elimeril451"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : eli-meril-physics # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
