@@ -39,7 +39,7 @@ Professional & Research Experience
 
 ## Notable Achievements
 * **Outstanding Faculty Poster Award**, Faculty of Physics, Tel Aviv University (January 2026).
-* **International Physics Olympiad (APhO 2017):** Represented Israel, ranking 100th globally and 6th in Israel.
+* **Physics Olympiad (APhO 2017):** Represented Israel, ranking 100th globally and 6th in Israel.
 * **International Mathematics Olympiad (IMC):** Honorable Mention (2022, 2023).
 * **Innovative Thinking Award:** Youngest recipient in the IDF for inventing and leading a novel optics project.
 
